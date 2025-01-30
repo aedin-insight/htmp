@@ -8,10 +8,6 @@ This project demonstrates how to make **PHP behave like HTMX**—serving dynamic
 ✅ No JavaScript required beyond HTMX  
 ✅ Simple, scalable, and fast  
 
-## 🏗️ Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/htmx-style-php.git
 
 # HTMP: Modern PHP Approach for Interactive Web Apps
 
