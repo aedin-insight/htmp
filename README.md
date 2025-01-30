@@ -12,3 +12,13 @@ This project demonstrates how to make **PHP behave like HTMX**—serving dynamic
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/htmx-style-php.git
+
+# HTMP: Modern PHP Approach for Interactive Web Apps
+
+HTMP (Hyper Text Markup PHP) is a new approach designed to leverage PHP in the modern web landscape. It aims to simplify the development of highly interactive web apps by blending the best practices of PHP with front-end technologies, offering a streamlined and powerful solution for developers.
+
+## Why HTMP?
+
+- Simplicity: Keep development straightforward while maintaining full functionality.
+- Interactivity: Easily create interactive, dynamic web apps.
+- Modern PHP: Take advantage of modern PHP features and best practices.
