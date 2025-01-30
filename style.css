@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+button { margin: 5px; padding: 8px; cursor: pointer; }
+table { border-collapse: collapse; width: 50%; margin-top: 10px; }
+th, td { border: 1px solid black; padding: 8px; text-align: left; }
